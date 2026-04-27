@@ -2,7 +2,7 @@
 
 Cast bullet and lead alloy composition tool. Built with React + Vite, deployed via GitHub Pages.
 
-**Live app:** https://baidu9-creator.github.io/lead-alloy-calculator/
+**Live app:** https://baidu9-creator.github.io/Lead-alloy-calculator/
 
 ## Features
 - 32 preset alloys with known Brinell hardness
